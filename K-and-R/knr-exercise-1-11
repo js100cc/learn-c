@@ -1,0 +1,10 @@
+  Some text		consist of words	and
+words are	delimited   by					whitespaces
+which include	' ' and '\t'		and   '\n'
+
+compile 1-10.c and run it and redirect this file as input to check chars in
+this file.
+
+then compile wc.c and run it and redirect this file as input to test
+
+Also, double test with linux command wc.
