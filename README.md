@@ -35,4 +35,13 @@ vim 8.2+ and plugins.
 
 1. C is de facto for almost all. Or, it's genes impart to many latecomers.
 2. Many *serious* computer books use c to introduce low-level computing. I want
-   learn them in the long run.
+   learn them in the long run.  
+
+
+## Study notes
+
+No notes written in markdown, all of them are directly written in source code comments.
+
+Read the code and comments for recap.
+
+
